@@ -21,4 +21,4 @@
 
 5，
 
-现在可以发布你的第一个笔记了。在 Obsidian 创建一个新的笔记，并且把下面字符加到笔记的开头。rsars 
+现在可以发布你的第一个笔记了。在 Obsidian 创建一个新的笔记，并且把下面字符加到笔记的开头。rsars [[Seiquae isus\|Seiquae isus]]
