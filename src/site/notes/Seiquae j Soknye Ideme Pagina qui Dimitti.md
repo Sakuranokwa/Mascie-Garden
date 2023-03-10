@@ -188,7 +188,7 @@
 [音乐标签pc版 - vinlxc - 博客园](https://www.cnblogs.com/vinlxc/p/11347744.html)
 [私人书签导航](http://me.lg3000.top/)
 [Unix - Colemak](https://colemak.com/Unix)
-[chatGPT](https://chat.openai.com/javascript:window.localStorage.removeItem(Object.keys(window.localStorage)
+[chatGPT](https://chat.openai.com)
 [What You are Looking At - MC百科|最大的Minecraft中文MOD百科](https://www.mcmod.cn/class/668.html)
 [植物僵尸相关下载](http://lonelystar.org/download.htm)
 [Pandownload 复刻版](https://bd.52king.vip/)
