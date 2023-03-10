@@ -4,7 +4,7 @@
 
 # **欢迎来到星华辉月和莎娜的网站导航页！** 
 
-*标 "\*" 的是推荐页面；标 "\¡"的是不推荐页面；标 "\?" 的是不可用页面*   
+\**标 "\*" 的是推荐页面；标 "\¡"的是不推荐页面；标 "\?" 的是不可用页面\*   
 
 ### 游戏资源
 - [俄罗斯最大资源站](https://rutracker.org/)\*
@@ -126,7 +126,7 @@
 - [Get started with Netlify | Team overview](https://app.netlify.com/teams/sakuranokwa/overview)
 - [Pandownload 复刻版](https://bd.52king.vip/)
 - [白玉楼](http://www.youmukonpaku.com/)
-- *遵纪守法、所以没有魔术道具*
+- \**遵纪守法、所以没有魔术道具*\**
 
 ### 百科
 - [Wikipedia](https://www.wikipedia.org/)
