@@ -13,4 +13,4 @@
 [PVZ TF Edition]([tfpvz.top](https://tfpvz.top/archives/8/))
 [online minecraft skin editor]([Minecraft皮肤编辑器-在线免费！ (photoretrica.com)](https://photoretrica.com/cn/minecraft-skin-editor))
 [Google Code Archive]([Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/rime-aca/downloads))
-[世界文字符号_千千秀字]([世界文字符号_千千秀字 (qqxiuzi.cn)](https://www.qqxiuzi.cn/zh/shijiewenzi/))
+[世界文字符号｜千千秀字]([世界文字符号_千千秀字 (qqxiuzi.cn)](https://www.qqxiuzi.cn/zh/shijiewenzi/))
